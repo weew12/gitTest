@@ -5,3 +5,5 @@ def
 def2
 def3
 def4
+def 5
+def 6
