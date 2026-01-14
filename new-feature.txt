@@ -4,3 +4,4 @@ add
 def
 def2
 def3
+def4
